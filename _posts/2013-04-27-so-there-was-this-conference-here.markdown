@@ -3,7 +3,7 @@ layout: post
 title: "So there was this conference here"
 date: 2013-04-27 20:41
 comments: true
-categories: agile, rant 
+categories: agile rant 
 ---
 
 Yes, yes, we did have a [small conference here](http://www.agilejkl.com), in my home town. I was, with many other people, participating on the proceedings of the event.

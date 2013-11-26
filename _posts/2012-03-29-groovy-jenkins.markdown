@@ -6,7 +6,8 @@ comments: true
 categories: [jenkins,groovy]
 ---
 
-For some reason the Gradle instructions for Jenkins plugins did not work for me. I resorted on doing something like this in build.gradle:
+ For some reason the Gradle instructions for Jenkins plugins did not work for me. 
+ I resorted on doing something like this in build.gradle:
 
 ``` 
 buildscript {

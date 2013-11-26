@@ -3,7 +3,7 @@ layout: post
 title: "Is it okay to be just a programmer?"
 date: 2013-09-11 21:23
 comments: true
-categories: stuff, programming
+categories: stuff programming
 ---
 
 From time to time I encounter this question. Time to think a little about it really.
