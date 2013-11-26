@@ -7316,15 +7316,22 @@ body {
 
 /* line 10, ../sass/_body.scss */
 div.main-header {
-  background-color: black;
+  background: rgba(0, 0, 0, 0.8);
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 /* line 13, ../sass/_body.scss */
 div.main-header h1 {
   margin-top: 1%;
   margin-bottom: 1%;
+  color: white;
+}
+/* line 20, ../sass/_body.scss */
+div.main-header h1 > small {
+  color: white;
 }
 
-/* line 21, ../sass/_body.scss */
+/* line 33, ../sass/_body.scss */
 div.old-image {
   background-color: #002e13;
   background: url("images/greengears.png") no-repeat;
@@ -7335,7 +7342,7 @@ div.old-image {
   min-height: 150px;
 }
 
-/* line 27, ../sass/_body.scss */
+/* line 39, ../sass/_body.scss */
 div.old-image-2 {
   background-color: black;
   background: url("images/blackgears.png") no-repeat;
@@ -7346,7 +7353,73 @@ div.old-image-2 {
   min-height: 150px;
 }
 
-/* line 34, ../sass/_body.scss */
+/* line 46, ../sass/_body.scss */
 .row {
-  background-color: #f7f7f7;
+  background-color: transparent;
+}
+
+/* line 50, ../sass/_body.scss */
+.inside-wrapper {
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-left: 1em;
+  background-color: white;
+}
+
+/* line 60, ../sass/_body.scss */
+.sidebar {
+  background-color: transparent;
+}
+
+/* line 64, ../sass/_body.scss */
+.front-main {
+  background-color: transparent;
+}
+/* line 67, ../sass/_body.scss */
+.front-main article {
+  background-color: white;
+  margin-bottom: 1em;
+}
+/* line 74, ../sass/_body.scss */
+.front-main article .row {
+  background-color: transparent;
+}
+
+/* line 80, ../sass/_body.scss */
+.box {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
+  box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
+}
+
+/* line 84, ../sass/_body.scss */
+.sidebar {
+  background-color: transparent;
+  min-height: 100%;
+}
+
+/* line 90, ../sass/_body.scss */
+h3 a {
+  color: black;
+}
+/* line 93, ../sass/_body.scss */
+h3 a:hover {
+  color: #4d4d4d;
+}
+/* line 96, ../sass/_body.scss */
+h3 a:visited {
+  color: #4d4d4d;
+}
+
+/* line 103, ../sass/_body.scss */
+h6 a {
+  color: #002e13;
+}
+/* line 106, ../sass/_body.scss */
+h6 a:hover {
+  color: #00c752;
+}
+/* line 109, ../sass/_body.scss */
+h6 a:visited {
+  color: #00c752;
 }

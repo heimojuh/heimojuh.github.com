@@ -8,14 +8,26 @@ body {
 }
 
 div.main-header {
-	background-color: black;
+	background: rgba(0,0,0,0.8);
 
 	h1 {
 		margin: {
 			top: 1%;
 			bottom: 1%;
 		}
+        color: white;
+
+        & > small {
+        
+            color: white;
+        }
 	}
+
+    margin: {
+        top: 1%;
+        bottom: 1%;
+    }
+
 }
 
 div.old-image {
@@ -32,5 +44,70 @@ div.old-image-2 {
 }
 
 .row {
-	background-color: rgb(247, 247, 247);
+	background-color: transparent;
+}
+
+.inside-wrapper {
+
+        padding: {
+            right: 1em;
+            top: 1em;
+            left: 1em;
+        }
+        background-color: white;
+}
+
+.sidebar {
+    background-color: transparent;
+}
+
+.front-main {
+    background-color: transparent;
+
+    & article {
+        background-color: white;
+        margin: {
+            bottom: 1em;
+        }
+        
+
+        & .row {
+            background-color: transparent;
+        }
+    }
+}
+
+.box {
+     @include box-shadow(rgba(black, 0.4) 2px 2px 2px);
+}
+
+.sidebar {
+    background-color: transparent;
+    min-height: 100%;
+}
+
+h3 {
+	a {
+		color: $main-header-color;
+	}
+	a:hover {
+		color: lighten($main-header-color,30%);
+	}
+	a:visited {
+		color: lighten($main-header-color, 30%);
+	
+		}
+}
+
+h6 {
+	a {
+		color: $deep-green;
+	}
+	a:hover {
+		color: lighten($deep-green,30%);
+	}
+	a:visited {
+		color: lighten($deep-green, 30%);
+	
+		}
 }
