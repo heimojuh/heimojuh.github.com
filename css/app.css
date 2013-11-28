@@ -7423,29 +7423,33 @@ div.old-image-2 {
   background-color: transparent;
   min-height: 100%;
 }
+/* line 111, ../sass/_body.scss */
+.sidebar li a {
+  display: inline-block;
+}
 
-/* line 113, ../sass/_body.scss */
+/* line 118, ../sass/_body.scss */
 h3 a {
   color: black;
 }
-/* line 116, ../sass/_body.scss */
+/* line 121, ../sass/_body.scss */
 h3 a:hover {
   color: #4d4d4d;
 }
-/* line 119, ../sass/_body.scss */
+/* line 124, ../sass/_body.scss */
 h3 a:visited {
   color: #4d4d4d;
 }
 
-/* line 126, ../sass/_body.scss */
+/* line 131, ../sass/_body.scss */
 h6 a {
   color: #002e13;
 }
-/* line 129, ../sass/_body.scss */
+/* line 134, ../sass/_body.scss */
 h6 a:hover {
   color: #00c752;
 }
-/* line 132, ../sass/_body.scss */
+/* line 137, ../sass/_body.scss */
 h6 a:visited {
   color: #00c752;
 }

@@ -107,6 +107,11 @@ div.old-image-2 {
 .sidebar {
     background-color: transparent;
     min-height: 100%;
+    & li {
+        a {
+            display: inline-block;
+        }
+    }
 }
 
 h3 {
