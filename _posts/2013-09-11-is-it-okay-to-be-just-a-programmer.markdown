@@ -3,6 +3,7 @@ layout: post
 title: "Is it okay to be just a programmer?"
 date: 2013-09-11 21:23
 comments: true
+image: http://placekitten.com/400/240
 categories: stuff programming
 ---
 

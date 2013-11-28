@@ -7401,42 +7401,51 @@ div.old-image-2 {
 .front-main article .row {
   background-color: transparent;
 }
-
+/* line 93, ../sass/_body.scss */
+.front-main article p {
+  line-height: 1.2em;
+}
 /* line 96, ../sass/_body.scss */
+.front-main article h3 {
+  font-size: 3em;
+  line-height: 1.1em;
+}
+
+/* line 103, ../sass/_body.scss */
 .box {
   -webkit-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
 }
 
-/* line 100, ../sass/_body.scss */
+/* line 107, ../sass/_body.scss */
 .sidebar {
   background-color: transparent;
   min-height: 100%;
 }
 
-/* line 106, ../sass/_body.scss */
+/* line 113, ../sass/_body.scss */
 h3 a {
   color: black;
 }
-/* line 109, ../sass/_body.scss */
+/* line 116, ../sass/_body.scss */
 h3 a:hover {
   color: #4d4d4d;
 }
-/* line 112, ../sass/_body.scss */
+/* line 119, ../sass/_body.scss */
 h3 a:visited {
   color: #4d4d4d;
 }
 
-/* line 119, ../sass/_body.scss */
+/* line 126, ../sass/_body.scss */
 h6 a {
   color: #002e13;
 }
-/* line 122, ../sass/_body.scss */
+/* line 129, ../sass/_body.scss */
 h6 a:hover {
   color: #00c752;
 }
-/* line 125, ../sass/_body.scss */
+/* line 132, ../sass/_body.scss */
 h6 a:visited {
   color: #00c752;
 }
