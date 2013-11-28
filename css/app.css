@@ -1,4 +1,4 @@
-/* normalize.css v2.1.2 | MIT License | git.io/normalize */
+/*! normalize.css v2.1.2 | MIT License | git.io/normalize */
 /* ==========================================================================
    HTML5 display definitions
    ========================================================================== */
@@ -7380,58 +7380,63 @@ div.old-image-2 {
 /* line 68, ../sass/_body.scss */
 .sidebar {
   background-color: transparent;
+  margin-bottom: 1em;
+}
+/* line 72, ../sass/_body.scss */
+.sidebar li {
+  margin-bottom: 0px;
 }
 
-/* line 72, ../sass/_body.scss */
+/* line 77, ../sass/_body.scss */
 .front-main {
   background-color: transparent;
 }
-/* line 75, ../sass/_body.scss */
+/* line 80, ../sass/_body.scss */
 .front-main article {
   background-color: white;
   margin-bottom: 1em;
   padding-bottom: 1em;
 }
-/* line 85, ../sass/_body.scss */
+/* line 90, ../sass/_body.scss */
 .front-main article .row {
   background-color: transparent;
 }
 
-/* line 91, ../sass/_body.scss */
+/* line 96, ../sass/_body.scss */
 .box {
   -webkit-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
 }
 
-/* line 95, ../sass/_body.scss */
+/* line 100, ../sass/_body.scss */
 .sidebar {
   background-color: transparent;
   min-height: 100%;
 }
 
-/* line 101, ../sass/_body.scss */
+/* line 106, ../sass/_body.scss */
 h3 a {
   color: black;
 }
-/* line 104, ../sass/_body.scss */
+/* line 109, ../sass/_body.scss */
 h3 a:hover {
   color: #4d4d4d;
 }
-/* line 107, ../sass/_body.scss */
+/* line 112, ../sass/_body.scss */
 h3 a:visited {
   color: #4d4d4d;
 }
 
-/* line 114, ../sass/_body.scss */
+/* line 119, ../sass/_body.scss */
 h6 a {
   color: #002e13;
 }
-/* line 117, ../sass/_body.scss */
+/* line 122, ../sass/_body.scss */
 h6 a:hover {
   color: #00c752;
 }
-/* line 120, ../sass/_body.scss */
+/* line 125, ../sass/_body.scss */
 h6 a:visited {
   color: #00c752;
 }

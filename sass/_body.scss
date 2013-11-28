@@ -67,6 +67,11 @@ div.old-image-2 {
 
 .sidebar {
     background-color: transparent;
+    margin-bottom: 1em;
+
+    & li {
+        margin-bottom: 0px;
+    }
 }
 
 .front-main {
