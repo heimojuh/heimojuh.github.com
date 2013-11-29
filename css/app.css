@@ -7341,8 +7341,20 @@ div.main-header h1 {
 div.main-header h1 > small {
   color: white;
 }
+/* line 32, ../sass/_body.scss */
+div.main-header h1 a {
+  color: white;
+}
+/* line 34, ../sass/_body.scss */
+div.main-header h1 a :visited {
+  color: white;
+}
+/* line 38, ../sass/_body.scss */
+div.main-header h1 a :hover {
+  color: white;
+}
 
-/* line 41, ../sass/_body.scss */
+/* line 53, ../sass/_body.scss */
 div.old-image {
   background-color: #002e13;
   background: url("images/greengears.png") no-repeat;
@@ -7353,7 +7365,7 @@ div.old-image {
   min-height: 150px;
 }
 
-/* line 47, ../sass/_body.scss */
+/* line 59, ../sass/_body.scss */
 div.old-image-2 {
   background-color: black;
   background: url("images/blackgears.png") no-repeat;
@@ -7364,12 +7376,12 @@ div.old-image-2 {
   min-height: 150px;
 }
 
-/* line 54, ../sass/_body.scss */
+/* line 66, ../sass/_body.scss */
 .row {
   background-color: transparent;
 }
 
-/* line 58, ../sass/_body.scss */
+/* line 70, ../sass/_body.scss */
 .inside-wrapper {
   padding-right: 1em;
   padding-top: 1em;
@@ -7377,83 +7389,83 @@ div.old-image-2 {
   background-color: white;
 }
 
-/* line 68, ../sass/_body.scss */
+/* line 80, ../sass/_body.scss */
 .sidebar {
   background-color: transparent;
   margin-bottom: 1em;
 }
-/* line 72, ../sass/_body.scss */
+/* line 84, ../sass/_body.scss */
 .sidebar li {
   margin-bottom: 0px;
 }
 
-/* line 77, ../sass/_body.scss */
+/* line 89, ../sass/_body.scss */
 .front-main {
   background-color: transparent;
 }
-/* line 80, ../sass/_body.scss */
+/* line 92, ../sass/_body.scss */
 .front-main article {
   background-color: white;
   margin-bottom: 1em;
   padding-bottom: 1em;
 }
-/* line 90, ../sass/_body.scss */
+/* line 102, ../sass/_body.scss */
 .front-main article .row {
   background-color: transparent;
 }
-/* line 93, ../sass/_body.scss */
+/* line 105, ../sass/_body.scss */
 .front-main article p {
   line-height: 1.2em;
 }
-/* line 96, ../sass/_body.scss */
+/* line 108, ../sass/_body.scss */
 .front-main article h3 {
   font-size: 3em;
   line-height: 1.1em;
 }
-/* line 103, ../sass/_body.scss */
+/* line 115, ../sass/_body.scss */
 .front-main article.post p {
   line-height: 1.5em;
 }
 
-/* line 109, ../sass/_body.scss */
+/* line 121, ../sass/_body.scss */
 .box {
   -webkit-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.4) 2px 2px 2px;
 }
 
-/* line 113, ../sass/_body.scss */
+/* line 125, ../sass/_body.scss */
 .sidebar {
   background-color: transparent;
   min-height: 100%;
 }
-/* line 117, ../sass/_body.scss */
+/* line 129, ../sass/_body.scss */
 .sidebar li a {
   display: inline-block;
 }
 
-/* line 124, ../sass/_body.scss */
+/* line 136, ../sass/_body.scss */
 h3 a {
   color: black;
 }
-/* line 127, ../sass/_body.scss */
+/* line 139, ../sass/_body.scss */
 h3 a:hover {
   color: #4d4d4d;
 }
-/* line 130, ../sass/_body.scss */
+/* line 142, ../sass/_body.scss */
 h3 a:visited {
   color: #4d4d4d;
 }
 
-/* line 137, ../sass/_body.scss */
+/* line 149, ../sass/_body.scss */
 h6 a {
   color: #002e13;
 }
-/* line 140, ../sass/_body.scss */
+/* line 152, ../sass/_body.scss */
 h6 a:hover {
   color: #00c752;
 }
-/* line 143, ../sass/_body.scss */
+/* line 155, ../sass/_body.scss */
 h6 a:visited {
   color: #00c752;
 }

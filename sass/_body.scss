@@ -29,6 +29,18 @@ div.main-header {
         
             color: white;
         }
+        a {
+            color: white;
+            & :visited {
+            
+            color: white;
+            }
+            & :hover {
+            color: white;
+                  
+            
+            }
+        }
 	}
 
     margin: {
