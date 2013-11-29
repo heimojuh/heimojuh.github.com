@@ -19,7 +19,7 @@ There's **demand** for something tangible. We start to be desperate on something
 
 We need to **be**.
 
-And being something and reflecting on something that we'd might want to be just don't come easy to us. Especially after we're rigged on exploring the system which holds the mechanics on steering our work. And that **is** a powerful thing, and we should clean up the waste as we encounter, but it get's us only that far.
+And being something and reflecting on something that we'd might want to **be**. just don't come easy to us. Especially after we're rigged on exploring the system which holds the mechanics on steering our work. And that **is** a powerful thing, and we should clean up the waste as we encounter, but it will only get us so far.
 
 We don't work with out hands.
 
@@ -29,8 +29,8 @@ Because, that is pretty tangible, when you think about it. That is about as tang
 
 Things we fear are many. We fear we don't do enough. We fear, that when people don't do as we are taught things go awfully wrong. We fear, that if we can't keep the position we're in, we're forgotten. We fear of getting fired. We fear of getting bored. We fear each other. We fear we don't understand the process. We fear we lose the big bid. We fear of change, we fear of change making us obsolete.
 
-The fear is what we must change. The fear is our needs coming unmet. Now imagine if the fear would lose it's value. There's very little to fear, if you can be sure that in event of change it would be taken care that you would not feel obsolete. You might then even initiate the change.
+The fear is what we must change. The fear is our needs coming unmet. Now imagine if the fear would lose its value. There's very little to fear if you can be sure that, in event of change, it would be taken care that you would not feel obsolete. You might then even initiate the change yourself.
 
-The fear is what can be fought against with attending needs. It's self accelerating cycle; less space for fear will feed upon building up caring. It doesn't get much more tangible than that.
+The fear is what can be fought against with attending needs. It's self accelerating cycle; less space for fear will be fodder for  building up caring. It doesn't get much more tangible than that.
 
 We don't work with our hands.
