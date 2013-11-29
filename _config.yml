@@ -2,3 +2,7 @@ name: I have no hands but I must code
 markdown: redcarpet
 pygments: true
 permalink: /blog/:year/:month/:day/:title/
+
+post:
+  template: _post.txt
+  extension: md
