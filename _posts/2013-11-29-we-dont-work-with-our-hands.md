@@ -7,7 +7,7 @@ categories: ["Antimatter principle"]
 ---
 
 Too long, didn't read: 
-Antimatter principle is a powerful thing to rip down destructive power structures inside organization. But for some reason the concept of empathy is not something we see "real" or tangible, even thought there's little that's more of so.
+Antimatter principle is a powerful thing to use on ripping down destructive power structures inside organization. But for some reason the concept of empathy is not something we see "real" or tangible, even thought there's little that's more of so.
 
 [Antimatter principle](http://flowchainsensei.wordpress.com/2013/10/12/the-antimatter-principle/) is something that is catching fire in the wild, that is something splendid. I'm ever so happy that I got interested on the matter. I'm hugely thankful to mr. [Bob Marshall](https://twitter.com/flowchainsensei) for being ever so insightful to come up with methods like this, and to [Torbjörn Gyllebring](https://twitter.com/drunkcod) to make me dive deeper into soothing waters.
 
