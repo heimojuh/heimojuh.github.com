@@ -15,7 +15,7 @@ Not long ago I was invited to talk about [Rightshifting](http://flowchainsensei.
 
 However, I can't really say I'm surprised that when the subject starts steering towards the actual transition on the model to the right (thus: Rightshifing) the discussion gets toned down a little.
 
-There's **demand** for something tangible. We start to be desperate on something that's... mechanic. That we can install on our system to steer us to right path. Shit, we might even want to give a dollar to someone who asks us how we feel and what we should **do** to get better, and we might pay the dollar to the darling and think we're fine. We're fine, since we **do**. But we ain't fine, because we **ain't**.
+There's **demand** for something tangible. We start to be desperate for something that's... mechanic. Something that we can install on our system to steer onto right path. Shit, we might even want to give a dollar to someone who asks us how we feel and what we should **do** to get better, and we might pay the dollar to the darling and think we're fine. We're fine, since we **do**. But we ain't fine, because we **ain't**.
 
 We need to **be**.
 
