@@ -21,7 +21,7 @@ We need to **be**.
 
 And being something and reflecting on something that we'd might want to **be**. just don't come easy to us. Especially after we're rigged on exploring the system which holds the mechanics on steering our work. And that **is** a powerful thing, and we should clean up the waste as we encounter, but it will only get us so far.
 
-We don't work with out hands.
+We don't work with our hands.
 
 Thus, in that context, after explaining the basic property, and the only property, of Antimatter principle, which is *"Attend to folks’ needs"*, it might feel a bit peculiar why there's still need for something more **tangible**.
 
