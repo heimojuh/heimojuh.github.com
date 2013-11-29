@@ -19,13 +19,13 @@ There's **demand** for something tangible. We start to be desperate for somethin
 
 We need to **be**.
 
-And being something and reflecting on something that we'd might want to **be**. just don't come easy to us. Especially after we're rigged on exploring the system which holds the mechanics on steering our work. And that **is** a powerful thing, and we should clean up the waste as we encounter, but it will only get us so far.
+And being something and reflecting on something that we'd might want to **be**. just don't come easy to us. Especially after we're rigged on exploring the system which holds the mechanics on steering our work. And that **is** a powerful thing, and we should clean up the waste as we encounter, but that will only get us so far.
 
 We don't work with our hands.
 
-Thus, in that context, after explaining the basic property, and the only property, of Antimatter principle, which is *"Attend to folks’ needs"*, it might feel a bit peculiar why there's still need for something more **tangible**.
+Thus, in that context, after explaining the basic property, and the only property of Antimatter principle, which is *"Attend to folks’ needs"*, it might feel a bit peculiar why there's still need for something more **tangible**.
 
-Because, that is pretty tangible, when you think about it. That is about as tangible as it will ever get in organizations that suffer, that are ill. Many, most, are ill because of fear. Fear is tangible. Fear enough, you shit your pants. That is tangible.
+Because that is pretty tangible when you think about it. That is about as tangible as it will ever get in organizations that suffer, that are ill. Many, most, are ill because of fear. Fear is tangible. Fear enough, you shit your pants. That is tangible.
 
 Things we fear are many. We fear we don't do enough. We fear, that when people don't do as we are taught things go awfully wrong. We fear, that if we can't keep the position we're in, we're forgotten. We fear of getting fired. We fear of getting bored. We fear each other. We fear we don't understand the process. We fear we lose the big bid. We fear of change, we fear of change making us obsolete.
 
