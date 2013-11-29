@@ -27,7 +27,7 @@ Thus, in that context, after explaining the basic property, and the only propert
 
 Because that is pretty tangible when you think about it. That is about as tangible as it will ever get in organizations that suffer, that are ill. Many, most, are ill because of fear. Fear is tangible. Fear enough, you shit your pants. That is tangible.
 
-Things we fear are many. We fear we don't do enough. We fear, that when people don't do as we are taught things go awfully wrong. We fear, that if we can't keep the position we're in, we're forgotten. We fear of getting fired. We fear of getting bored. We fear each other. We fear we don't understand the process. We fear we lose the big bid. We fear of change, we fear of change making us obsolete.
+Things we fear are many. We fear we don't do enough. We fear that when people don't do as we are taught things go awfully wrong. We fear, that if we can't keep the position we're in, we're forgotten. We fear getting fired. We fear getting bored. We fear each other. We fear we don't understand the process. We fear we lose the big bid. We fear change, we fear change making us obsolete.
 
 The fear is what we must change. The fear is our needs coming unmet. Now imagine if the fear would lose its value. There's very little to fear if you can be sure that, in event of change, it would be taken care that you would not feel obsolete. You might then even initiate the change yourself.
 
