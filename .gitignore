@@ -1,3 +1,7 @@
 .sass-cache
 serve
 _site
+Gemfile
+Gemfile.lock
+config.rb
+Rakefile
