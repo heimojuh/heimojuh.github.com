@@ -3,7 +3,7 @@
     <h5>Categories</h5>
     <ul class="side-nav">
         {% for category in site.categories %}
-        <li><a href="/categories/{{ category[0] }}/"> {{ category | first }}</a></li>
+        <li><a href="/categories/{{ category[0] | replace: ' ', '-' }}/"> {{ category | first }}</a></li>
         {% endfor %}
     </ul>
 </div>
