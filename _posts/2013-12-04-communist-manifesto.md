@@ -14,9 +14,9 @@ Because it is all about power.
 
 About **power** and **oppression**.
 
-And that is all happening around us, in form of a structural manifestation we like to nurture within our organizations. We tend them, like we tend our babies. We are worried, if the metrics show that it is ill. We like to think that it is alive, and it has a direction which can be managed, steered, controlled with practices concerning it and it alone.
+That is happening all around us in form of **a structural manifestation** we like to nurture in our organization. We tend **it** like we tend our babies. We are worried if the metrics show that it is ill. We like to think that it is alive and that it has a direction which can be managed, steered, controlled with practices concerning it and it alone.
 
-[We raise bodies](http://www.pmi.org/), institutions, to cement the existence of such **a thing**. We often wield it as a weapon, we wield as a source of "yes, but"s. It's bottomless what comes to makeshift rules. It is twisted. It is a base of:
+[We raise bodies](http://www.pmi.org/), institutions, to cement the existence of such **a thing**. We wield it as a weapon, we wield it as a source of *yes, but*s. **It** is bottomless what comes to makeshift rules. It is twisted. It is a base of
 
 ### POWER
 
