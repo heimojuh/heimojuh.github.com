@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Communist manifesto" 
-date: 2013-12-05 17:57
+date: 2013-12-09 01:00
 comments: true
 categories: 
 image: "css/images/sickle.png"
